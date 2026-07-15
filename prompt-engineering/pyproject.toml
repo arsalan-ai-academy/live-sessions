@@ -1,0 +1,9 @@
+[project]
+name = "discount-calculator-demo"
+version = "0.1.0"
+description = "A tiny discount calculator used as a demo repo."
+requires-python = ">=3.9"
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest"]
