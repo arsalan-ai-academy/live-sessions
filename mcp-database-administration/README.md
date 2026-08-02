@@ -8,7 +8,7 @@ You will learn how to:
 - Connect your editor to Supabase through an MCP server
 - Load the Chinook sample dataset
 - Ask MCP to inspect tables, relationships, and data
-- Use MCP for common database admin tasks like schema inspection and safe updates
+- Use MCP for common database admin tasks like schema inspection and reporting
 
 By the end of the session, you should be able to:
 - Set up a Supabase project for MCP-based database work
@@ -26,6 +26,5 @@ By the end of the session, you should be able to:
 
 - Setup guide: [mcp-setup.md](mcp-setup.md)
 - Postgres primer: [postgres-basics.md](postgres-basics.md)
+- Natural language query examples: [mcp-query-examples.md](mcp-query-examples.md)
 - Dataset SQL file: [data/chinook-postgres.sql](data/chinook-postgres.sql)
-
-Note: The Chinook SQL dump is in [data/chinook-postgres.sql](data/chinook-postgres.sql).
